@@ -1,0 +1,43 @@
+#one{
+    background-image: url("./images/login.png");
+}
+
+#two{
+    background-image: url("./images/main.jpg");
+}
+
+#four{
+    color:white;
+    font-weight: bolder;
+}
+
+#five{
+    font-weight: bolder;
+}
+
+#six{
+    background-color:#9ACBD0;
+}
+
+#seven{
+    height: 74.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#eight{
+    background-color: white;
+}
+
+#nine{
+    color: black;
+}
+
+#ten{
+    background-color:blanchedalmond;
+}
+
+#panel {
+    size: 2px;
+}
