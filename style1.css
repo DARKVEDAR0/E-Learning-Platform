@@ -38,6 +38,14 @@
     background-color:blanchedalmond;
 }
 
-#panel {
-    size: 2px;
+#dashboard {
+    display: flex;
+    justify-content: center
+}
+
+#admin {
+    margin-left: 15px;
+    display: flex;
+    justify-content: center
+    
 }
